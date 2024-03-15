@@ -449,6 +449,11 @@ input:-webkit-autofill
             top: 0;
             height: 40%;
         }
+        
+        20%{
+            top: 2.5;
+            height: 50%;
+        }
     
         25% {
             top: 5%;
